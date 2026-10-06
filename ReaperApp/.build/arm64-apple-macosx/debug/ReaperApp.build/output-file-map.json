@@ -1,0 +1,75 @@
+{
+  "": {
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/primary.swiftdeps"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/AdjutantSidebar.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/AdjutantSidebar.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/AdjutantSidebar.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/AdjutantSidebar~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/AdjutantSidebar.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/AdjutantSidebar.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/CalendarView.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/CalendarView.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/CalendarView.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/CalendarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/CalendarView.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/CalendarView.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ContentView.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ContentView.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ContentView.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ContentView.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/DesktopWidget.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/DesktopWidget.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/DesktopWidget.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/DesktopWidget~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/DesktopWidget.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/DesktopWidget.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/EngineClient.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/EngineClient.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/EngineClient.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/EngineClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/EngineClient.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/EngineClient.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ImageAttach.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ImageAttach.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ImageAttach.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ImageAttach~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ImageAttach.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ImageAttach.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/MemoryPanel.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/MemoryPanel.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/MemoryPanel.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/MemoryPanel~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/MemoryPanel.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/MemoryPanel.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/Models.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/Models.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/Models.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/Models.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/Models.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/PointCloudView.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/PointCloudView.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/PointCloudView.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/PointCloudView~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/PointCloudView.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/PointCloudView.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ReaperApp.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ReaperApp.d",
+    "object": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ReaperApp.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ReaperApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ReaperApp.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/arm64-apple-macosx/debug/ReaperApp.build/ReaperApp.dia"
+  }
+}

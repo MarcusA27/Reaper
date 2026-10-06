@@ -1,0 +1,330 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.ReaperApp-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/sources",
+      "importPath" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/AdjutantSidebar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/CalendarView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/DesktopWidget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/EngineClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ImageAttach.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/MemoryPanel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/PointCloudView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ReaperApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "ReaperApp",
+      "moduleOutputPath" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/Modules/ReaperApp.swiftmodule",
+      "objects" : [
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/AdjutantSidebar.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/CalendarView.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/ContentView.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/DesktopWidget.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/EngineClient.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/ImageAttach.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/MemoryPanel.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/Models.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/PointCloudView.swift.o",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/ReaperApp.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "ReaperApp_main",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "reaperapp"
+      ],
+      "outputFileMapPath" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/Modules/ReaperApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/AdjutantSidebar.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/CalendarView.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ContentView.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/DesktopWidget.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/EngineClient.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ImageAttach.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/MemoryPanel.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/Models.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/PointCloudView.swift",
+        "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ReaperApp.swift"
+      ],
+      "tempsPath" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "ReaperApp" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "ReaperApp",
+      "-package-name",
+      "reaperapp",
+      "-c",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/AdjutantSidebar.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/CalendarView.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ContentView.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/DesktopWidget.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/EngineClient.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ImageAttach.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/MemoryPanel.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/Models.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/PointCloudView.swift",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ReaperApp.swift",
+      "-I",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "ReaperApp_main",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "reaperapp",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "ReaperApp" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/AdjutantSidebar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/CalendarView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/DesktopWidget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/EngineClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ImageAttach.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/MemoryPanel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/PointCloudView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/Sources/ReaperApp/ReaperApp.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/ReaperApp.build/sources"
+    },
+    "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/marcusarocha/Projects/Code/Agent/ReaperApp/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
