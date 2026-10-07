@@ -1,4 +1,4 @@
-# REAPER — combat interface
+# REAPER
 
 A dark-machine ops watchdog with a voice. You type orders; it answers in a
 synthesized robot voice inside a military terminal. Its personality lives on
